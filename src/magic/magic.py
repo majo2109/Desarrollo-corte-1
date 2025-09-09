@@ -2,6 +2,7 @@ class Magic:
     """
     Clase con métodos para juegos matemáticos, secuencias especiales y algoritmos numéricos.
     """
+    #Ejemplo
 
     def fibonacci(self, n):
         """Calcula el n-ésimo número de Fibonacci."""
